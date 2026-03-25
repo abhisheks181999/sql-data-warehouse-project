@@ -1,0 +1,6 @@
+.vs/
+*.log
+*.tmp
+*.bak
+*.mdf
+*.ldf
