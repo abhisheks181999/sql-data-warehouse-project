@@ -7,6 +7,7 @@ This project demonstrates a comprehensive data warehouse and analytics solution,
 ---
 ## Data Architecture
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, **Gold** layers:
+![Data Architecture]("C:\Users\abhis\Downloads\data_architecture.png")
 
 1.**Bronze Layer**: Stores raw data as-isfrom the source systems. Data is ingested from CSV files into SQL Server Database.
 
